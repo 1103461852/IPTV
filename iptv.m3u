@@ -35,7 +35,7 @@ http://192.168.50.1:56666/rtp/238.1.78.222:7648
 http://192.168.50.1:56666/rtp/238.1.78.178:7296
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视", 安徽卫视HD
 http://192.168.50.1:56666/rtp/238.1.78.150:7072
-#EXTINF:-1 tvg-id="" tvg-name="安徽经视" tvg-logo="" group-title="地方卫视", 安徽经视HD
+#EXTINF:-1 tvg-id="" tvg-name="安徽经视" tvg-logo="https://github.com/1103461852/IPTV/blob/main/ahjs.png" group-title="地方卫视", 安徽经视HD
 http://192.168.50.1:56666/rtp/238.1.79.44:4464
 #EXTINF:-1 tvg-id="" tvg-name="安徽影视" tvg-logo="" group-title="地方卫视", 安徽影视HD
 http://192.168.50.1:56666/rtp/238.1.79.42:4448
