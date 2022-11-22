@@ -57,3 +57,109 @@ http://192.168.50.1:56666/rtp/238.1.78.33:6192
 http://192.168.50.1:56666/rtp/238.1.79.59:4608
 #EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="地方", 世界地理(付费)HD
 http://192.168.50.1:56666/rtp/238.1.79.60:4616
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",	徽生活HD
+http://192.168.50.1:56666/rtp/238.1.79.37:4408
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",	安徽卫视FHD
+http://192.168.50.1:56666/rtp/238.1.79.27:4328
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",	安徽卫视HD
+http://192.168.50.1:56666/rtp/238.1.78.150:7072
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",	北京卫视HD
+http://192.168.50.1:56666/rtp/238.1.78.162:7168
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",	东方卫视HD
+http://192.168.50.1:56666/rtp/238.1.78.163:7176
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",	东南卫视HD
+http://192.168.50.1:56666/rtp/238.1.78.22:6104
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",	甘肃卫视HD
+http://192.168.50.1:56666/rtp/238.1.79.36:4400
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",	广东卫视HD
+http://192.168.50.1:56666/rtp/238.1.78.161:7160
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",	贵州卫视HD
+http://192.168.50.1:56666/rtp/238.1.78.244:7824
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",	海南卫视HD
+http://192.168.50.1:56666/rtp/238.1.79.49:4504
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",	河北卫视HD
+http://192.168.50.1:56666/rtp/238.1.78.245:7832
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",	河南卫视HD
+http://192.168.50.1:56666/rtp/238.1.79.65:4632
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",	黑龙江卫视HD
+http://192.168.50.1:56666/rtp/238.1.78.159:7144
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",	湖北卫视HD
+http://192.168.50.1:56666/rtp/238.1.78.168:7216
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",	湖南卫视HD
+http://192.168.50.1:56666/rtp/238.1.78.160:7152
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",	吉林卫视HD	
+http://192.168.50.1:56666/rtp/238.1.79.48:4496
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",	江苏卫视HD	
+http://192.168.50.1:56666/rtp/238.1.78.165:7192
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",	江西卫视HD
+http://192.168.50.1:56666/rtp/238.1.78.26:6136
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",	辽宁卫视HD
+http://192.168.50.1:56666/rtp/238.1.78.21:6096
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",	山东卫视HD
+http://192.168.50.1:56666/rtp/238.1.78.169:7224
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",	深圳卫视HD
+http://192.168.50.1:56666/rtp/238.1.78.156:7120
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",	天津卫视HD
+http://192.168.50.1:56666/rtp/238.1.78.20:6088
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",	浙江卫视HD
+http://192.168.50.1:56666/rtp/238.1.78.164:7184
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",	四川卫视HD
+http://192.168.50.1:56666/rtp/238.1.78.30:6168
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",	重庆卫视HD
+http://192.168.50.1:56666/rtp/238.1.78.31:6176
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",	合肥新闻HD
+http://192.168.50.1:56666/rtp/238.1.78.111:6760
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",	爱上4K
+http://192.168.50.1:56666/rtp/238.1.78.23:6112
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",	兵器科技(付费)HD
+http://192.168.50.1:56666/rtp/238.1.79.56:4584
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",	茶(付费)HD
+http://192.168.50.1:56666/rtp/238.1.79.30:4352
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",	第一剧场(付费)HD
+http://192.168.50.1:56666/rtp/238.1.79.63:4640
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",	电视指南HD
+http://192.168.50.1:56666/rtp/238.1.79.53:4560
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",	动漫秀场HD
+http://192.168.50.1:56666/rtp/238.1.78.154:7104
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",	风云剧场(付费)HD
+http://192.168.50.1:56666/rtp/238.1.79.62:4632
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",	风云音乐(付费)HD
+http://192.168.50.1:56666/rtp/238.1.79.64:4648
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",	风云足球(付费)HD
+http://192.168.50.1:56666/rtp/238.1.79.57:4592
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",	高尔夫(付费)HD
+http://192.168.50.1:56666/rtp/238.1.79.58:4600
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",	海豚健康HD
+http://192.168.50.1:56666/rtp/238.1.79.33:4376
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",	海豚少儿HD
+http://192.168.50.1:56666/rtp/238.1.79.32:4368
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",	海豚生活HD
+http://192.168.50.1:56666/rtp/238.1.79.50:4512
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",	海豚影视HD
+http://192.168.50.1:56666/rtp/238.1.79.34:4384
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",	怀旧剧场(付费)HD
+http://192.168.50.1:56666/rtp/238.1.79.61:4624
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",	纪实人文HD
+http://192.168.50.1:56666/rtp/238.1.78.153:7096
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",	金鹰纪实HD
+http://192.168.50.1:56666/rtp/238.1.79.9:4184
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",	快乐垂钓(付费)HD
+http://192.168.50.1:56666/rtp/238.1.79.31:4360
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",	女性时尚(付费)HD
+http://192.168.50.1:56666/rtp/238.1.79.55:4576
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",	全纪实HD
+http://192.168.50.1:56666/rtp/238.1.78.151:7080
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",	生活时尚HD
+http://192.168.50.1:56666/rtp/238.1.78.155:7112
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",	世界地理(付费)HD
+http://192.168.50.1:56666/rtp/238.1.79.60:4616
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",	陶瓷HD
+http://192.168.50.1:56666/rtp/238.1.78.157:7128
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",	体育赛事(付费)HD
+http://192.168.50.1:56666/rtp/238.1.78.33:6192
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",	央视精品(付费)HD
+http://192.168.50.1:56666/rtp/238.1.79.54:4568
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",	央视台球(付费)HD
+http://192.168.50.1:56666/rtp/238.1.79.59:4608
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",	中国教育-1HD
+http://192.168.50.1:56666/rtp/238.1.78.158:7136
