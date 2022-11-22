@@ -53,8 +53,6 @@ http://192.168.50.1:56666/rtp/238.1.79.50:4512
 http://192.168.50.1:56666/rtp/238.1.79.57:4592
 #EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="地方", 快乐垂钓(付费)HD
 http://192.168.50.1:56666/rtp/238.1.79.31:4360
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类", 体育赛事(付费)HD
-http://192.168.50.1:56666/rtp/238.1.78.33:6192
 #EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="地方", 央视台球(付费)HD
 http://192.168.50.1:56666/rtp/238.1.79.59:4608
 #EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="地方", 世界地理(付费)HD
