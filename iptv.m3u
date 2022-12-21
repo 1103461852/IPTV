@@ -105,11 +105,11 @@ http://192.168.50.1:56666/rtp/238.1.78.30:6168
 http://192.168.50.1:56666/rtp/238.1.78.31:6176
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他HD",	合肥新闻HD
 http://192.168.50.1:56666/rtp/238.1.78.111:6760
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他HD",	爱上4K
+#EXTINF:-1 tvg-id="7244" tvg-name="爱上4K" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/aishang4k.png" group-title="其他HD",	爱上4K
 http://192.168.50.1:56666/rtp/238.1.78.23:6112
 #EXTINF:-1 tvg-id="6563" tvg-name="兵器科技" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" group-title="其他HD",	兵器科技(付费)HD
 http://192.168.50.1:56666/rtp/238.1.79.56:4584
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他HD",	茶(付费)HD
+#EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="其他HD",	茶(付费)HD
 http://192.168.50.1:56666/rtp/238.1.79.30:4352
 #EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="其他HD",	第一剧场(付费)HD
 http://192.168.50.1:56666/rtp/238.1.79.63:4640
@@ -123,7 +123,7 @@ http://192.168.50.1:56666/rtp/238.1.79.62:4632
 http://192.168.50.1:56666/rtp/238.1.79.64:4648
 #EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="其他HD",	风云足球(付费)HD
 http://192.168.50.1:56666/rtp/238.1.79.57:4592
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他HD",	高尔夫(付费)HD
+#EXTINF:-1 tvg-id="6568" tvg-name="高尔夫网球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg" group-title="其他HD",	高尔夫(付费)HD
 http://192.168.50.1:56666/rtp/238.1.79.58:4600
 #EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="其他HD",	怀旧剧场(付费)HD
 http://192.168.50.1:56666/rtp/238.1.79.61:4624
