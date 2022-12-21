@@ -125,14 +125,6 @@ http://192.168.50.1:56666/rtp/238.1.79.64:4648
 http://192.168.50.1:56666/rtp/238.1.79.57:4592
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他HD",	高尔夫(付费)HD
 http://192.168.50.1:56666/rtp/238.1.79.58:4600
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他HD",	海豚健康HD
-http://192.168.50.1:56666/rtp/238.1.79.33:4376
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他HD",	海豚少儿HD
-http://192.168.50.1:56666/rtp/238.1.79.32:4368
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他HD",	海豚生活HD
-http://192.168.50.1:56666/rtp/238.1.79.50:4512
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="其他HD",	海豚影视HD
-http://192.168.50.1:56666/rtp/238.1.79.34:4384
 #EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="其他HD",	怀旧剧场(付费)HD
 http://192.168.50.1:56666/rtp/238.1.79.61:4624
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="其他HD",	纪实人文HD
@@ -155,5 +147,5 @@ http://192.168.50.1:56666/rtp/238.1.79.54:4568
 http://192.168.50.1:56666/rtp/238.1.79.59:4608
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="其他HD",	中国教育-1HD
 http://192.168.50.1:56666/rtp/238.1.78.158:7136
-#EXTINF:-1 tvg-name="CCTV16-4K-25PHLG源" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="4K频道",CCTV16-4K-25PHLG源
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV164K
 http://live.cooltv.top/tv/aishang.php?id=cctv164k
