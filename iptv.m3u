@@ -145,5 +145,5 @@ http://192.168.50.1:56666/rtp/238.1.79.54:4568
 http://192.168.50.1:56666/rtp/238.1.79.59:4608
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="其他HD",	中国教育-1HD
 http://192.168.50.1:56666/rtp/238.1.78.158:7136
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV164K
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV164K
 http://live.cooltv.top/tv/aishang.php?id=cctv164k
